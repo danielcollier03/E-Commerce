@@ -20,17 +20,17 @@ body{
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('./images/oreocow1.jfif');
+    url('./images/oreocow1.jpg') !important;
     background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/farm.jfif');
+     url('./images/farm.jpg') !important;
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/farm2.jfif');
+     url('./Images/farm2.jpg') !important;
     background-size: cover;
 }
 .h-color{
